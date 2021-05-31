@@ -7,11 +7,11 @@ And you don't need to worry about your computer if it has been formatted or the 
 **Markdown** is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 
-## there is many commands you can use it but they are different to write them here like : 
+## there is many commands you can use it and they are  different than HTML like : 
 
 * Headers
 
- hashtag here it is like < h1 > tag
+ hashtag(#) here it is like < h1 > tag
 
 * Images
 
@@ -20,7 +20,17 @@ You need to write ![GitHub Logo](/images/logo .png)  instead of < img src="img. 
 
 
 ## why Markdown  is good to use : 
-because you can use it with your colleagues  to write notes, when you edit something or delete etc..!
+
+ Because it is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
+
+And you can use it with your colleagues  to write notes,and when you edit something or delete etc..!
+
+
+
+# And last but not least its free 😍
+
+
+
 
 
 
