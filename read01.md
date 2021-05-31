@@ -1,4 +1,4 @@
-# The Githup 
+# The Github
 
 it is one of the best websites to start working software development on it, because it allows you to work with your friends and your colleagues 
 
@@ -7,7 +7,7 @@ And you don't need to worry about your computer if it has been formatted or the 
 **Markdown** is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
 
 
-## there is many commands you can use it and they are  different than HTML like : 
+## there are many commands you can use it and they are  different than HTML like : 
 
 * Headers
 
@@ -27,7 +27,7 @@ And you can use it with your colleagues  to write notes,and when you edit someth
 
 
 
-# And last but not least its free 😍
+# And last but not least it's free 😍
 
 
 
