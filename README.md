@@ -1,6 +1,6 @@
 # growth-mindset
 
-**Every one this world should grow his mindset**: how to thinking and learn new things to increase your experience in your job, and in your life to how to deal with different situations, and solve the issues going to happen
+**Every one in this world should grow his mindset**: how to thinking and learn new things to increase your experience in your job, and in your life to how to deal with different situations, and solve the issues going to happen
 
 And don't stop on point without passing it, If there is no solution, its not bad to ask someone for help who has a good experience, and you will 
 benefit from his expreience 
