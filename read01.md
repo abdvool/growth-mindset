@@ -16,6 +16,8 @@ And you don't need to worry about your computer if it has been formatted or the 
 * Images
 
 You need to write ![GitHub Logo] ( /images/logo .png)  instead of < img src="img. png" >
+
+* Etc 
   
 
 
