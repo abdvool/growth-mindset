@@ -5,7 +5,7 @@
 And don't stop on point without passing it, If there is no solution, its not bad to ask someone for help who has a good experience, and you will 
 benefit from his expreience 
 
-![img](https://thetalentinstitute.imgix.net/assets/img/blog/wouter-blog.png?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=531.5625&q=80&w=945&s=222d9cc565e7ee7a3e343cf11038b026)
+![img](https://raw.githubusercontent.com/abdvool/reading-notes/main/mind.jpg)
 
 ## Ways to grow your mindset: 
 
@@ -20,7 +20,8 @@ benefit from his expreience
 
  * Keeping up to date with technology
 
-![img](http://www.sixteenconsulting.com/sixteenblog/wp-content/uploads/2018/01/https_2F2Fcdn.evbuc_.com2Fimages2F282995062F1268810886652F12Foriginal-800x500.jpg)
+![img](https://raw.githubusercontent.com/abdvool/reading-notes/main/technology.jpg.jpg)
+
 
 
  * thinking outside the box
