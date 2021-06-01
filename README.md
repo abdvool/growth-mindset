@@ -5,6 +5,6 @@ I joined this course because I will learn software development  from the begging
 |labs | links |
 |:---:  |:--: |
 | growth-mindset | [link](https://replit.com/@AbdulrahmanKha4/reading-notes#102d34_lab1.md) | 
-| lab2 | [link](https://replit.com/@AbdulrahmanKha4/reading-notes#102d34_lab2.md) |
+| Git | [link](https://replit.com/@AbdulrahmanKha4/reading-notes#102d34_lab2.md) |
 
 
