@@ -1,4 +1,4 @@
-# Git Tutorial: A Comprehensive Guide
+# Git 
 
 
 ## Prerequisites
