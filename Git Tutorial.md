@@ -42,7 +42,7 @@ File has been changed but not committed to the database
 
 ## How to save your work at Github when you finish?
 
-### Here are  the 3  simple steps to do 
+### Here are  the 3  simple steps to do :
 
 
 
