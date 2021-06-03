@@ -6,8 +6,8 @@ I joined this course because I will learn software development  from the begging
 |:---:  |:--: |
 | growth-mindset | [link](https://abdvool.github.io/reading-notes/growth-mindset) | 
 |Git Tutorial | [link](https://abdvool.github.io/reading-notes/Git%20Tutorial) |
-|css | [link] (https://abdvool.github.io/reading-notes/Css) |
+|css | [link](https://abdvool.github.io/reading-notes/Css) |
 |HTML | [link](https://abdvool.github.io/reading-notes/Htmllab03) |
-|labs | [link]() |
+|Java | [link](https://abdvool.github.io/reading-notes/Java) |
 |labs | [link]() |
 |labs | [link]() |
