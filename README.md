@@ -4,7 +4,10 @@ I joined this course because I will learn software development  from the begging
 
 |labs | links |
 |:---:  |:--: |
-| growth-mindset | [link](https://replit.com/@AbdulrahmanKha4/reading-notes#102d34_lab1.md) | 
-| Git | [link](https://replit.com/@AbdulrahmanKha4/reading-notes#102d34_lab2.md) |
-
-
+| growth-mindset | [link](https://abdvool.github.io/reading-notes/growth-mindset) | 
+|Git Tutorial | [link](https://abdvool.github.io/reading-notes/Git%20Tutorial) |
+|css | [link] (https://abdvool.github.io/reading-notes/Css) |
+|HTML | [link](https://abdvool.github.io/reading-notes/Htmllab03) |
+|labs | [link]() |
+|labs | [link]() |
+|labs | [link]() |
