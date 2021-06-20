@@ -52,7 +52,7 @@ console.log(game);
 
 prompt("Sumbbit your review please")
 
-alert("Thank your for your time ")
+alert("Thank your for your time")
 
 
 
