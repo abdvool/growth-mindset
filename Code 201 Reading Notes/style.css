@@ -1,0 +1,53 @@
+
+li{
+
+    display: inline;
+    float: right;
+    width: 100px;
+    
+
+}
+
+
+
+
+body{
+
+background-image: url(https://images.ctfassets.net/rporu91m20dc/2OJbYNR1jGuKc0akweMGQK/5ec7e4aaddb887a9478d5c412296f659/DOOM-Eternal_KeyArt_3_1920x1080.jpg);
+background-repeat: no-repeat;
+}
+
+
+footer{
+    color: white;
+
+
+
+margin-top: 450px;
+
+}
+
+img{
+
+    width: 250px;
+
+    clear: both;
+
+    margin-top: 50px ;
+    
+
+
+
+}
+
+
+section{
+
+margin-left: 50px;
+
+
+
+border: solid black;
+
+clear: both;
+}
