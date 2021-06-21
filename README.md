@@ -4,6 +4,10 @@ This Abdulrahman 26 years old, I'm Al-Zaytoonah graduate, majored in English and
 I worked with Vogacloset as customer service for almost three years
 I joined this course because I will learn software development  from the begging and I hope to be a good programmer 
 
+
+
+#### these summaries about the software development
+
 |labs | links |
 |:---:  |:--: |
 | growth-mindset | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/growth-mindset) | 
