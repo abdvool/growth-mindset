@@ -4,10 +4,10 @@ I joined this course because I will learn software development  from the begging
 
 |labs | links |
 |:---:  |:--: |
-| growth-mindset | [link](https://abdvool.github.io/reading-notes/growth-mindset) | 
-|Git Tutorial | [link](https://abdvool.github.io/reading-notes/Git%20Tutorial) |
-|css | [link](https://abdvool.github.io/reading-notes/Css) |
-|HTML | [link](https://abdvool.github.io/reading-notes/Htmllab03) |
-|Java | [link](https://abdvool.github.io/reading-notes/Java) |
-|labs | [link]() |
+| growth-mindset | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/growth-mindset) | 
+|Git Tutorial | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/Git%20Tutorial) |
+|css | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/Css) |
+|HTML | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/Htmllab03) |
+|Java | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/Java) |
+|class01 | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/class01) |
 |labs | [link]() |
