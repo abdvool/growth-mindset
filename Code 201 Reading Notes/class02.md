@@ -1,4 +1,4 @@
-# Text
+# HTML
 
 ### HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
 
@@ -96,3 +96,33 @@ HTML
 ````
 result
 <p>This is how we make a word appear <b>bold.</b>   </p><p>Inside a product description you might see some <b>key features</b> in bold.</p>
+
+-----------------
+
+# JS
+
+* A language contain SYNTAX AND GRAMMAR like any new language, there are new words to learn (the vocabulary) and rules for how these can be put together (the grammar and syntax of the language).
+
+
+* GIVING INSTRUCTIONS:
+FOR A BROWSER TO FOLLOW
+Web browsers (and computers in general)
+approach tasks in a very different way than
+a human might. Your instructions need to
+reflect how computers get things done.
+
+----
+## STATEMENTS
+
+A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement.
+Statements should end with a semicolon.
+
+![img](/img/1.JPG)
+
+----------
+## COMMENTS 
+You should write comments to explain what your code does.
+They help make your code easier to read and understand.
+This can help you and others who read your code. 
+![img](/img/Capture.JPG)
