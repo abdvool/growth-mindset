@@ -12,7 +12,7 @@ I joined this course because I will learn software development  from the begging
 
 
 
-#### these topics to help about software development
+#### these topics to learn you about the software development
 
 
 |**102 course** | links |                                                      
