@@ -12,14 +12,24 @@ I joined this course because I will learn software development  from the begging
 
 
 
-#### these summaries about the software development
+#### these topics to help about software development
 
-|labs | links |
+
+|**102 course** | links |                                                      
 |:---:  |:--: |
 | growth-mindset | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/growth-mindset) | 
 |Git Tutorial | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/Git%20Tutorial) |
 |css | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/Css) |
 |HTML | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/Htmllab03) |
 |Java | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/Java) |
-|class01 | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/class01) |
-|labs | [link]() |
+
+
+
+
+
+
+|**201 course** | links |                                                      
+|:---:  |:--: |
+|  HTML&JS | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/HTML%26JS) | 
+|HTML Text, CSS, Basic JavaScript Instructions  | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/HTML%20Text%2C%20CSS%20Introduction%2C%20and%20Basic%20JavaScript%20Instructions) |
+|HTML Lists, CSS Boxes, JS Control Flow | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/HTML%20Lists%2C%20CSS%20Boxes%2C%20JS%20Control%20Flow) |
