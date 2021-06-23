@@ -33,3 +33,4 @@ I joined this course because I will learn software development  from the begging
 |  HTML&JS | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/HTML%26JS) | 
 |HTML Text, CSS, Basic JavaScript Instructions  | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/HTML%20Text%2C%20CSS%20Introduction%2C%20and%20Basic%20JavaScript%20Instructions) |
 |HTML Lists, CSS Boxes, JS Control Flow | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/HTML%20Lists%2C%20CSS%20Boxes%2C%20JS%20Control%20Flow) |
+|HTML Links, JS Functions, and Intro to CSS Layout | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/HTML%20Links%2C%20JS%20Functions%2C%20and%20Intro%20to%20CSS%20Layout) |
