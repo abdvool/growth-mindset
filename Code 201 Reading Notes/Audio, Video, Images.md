@@ -1,4 +1,4 @@
-# Audio, Video, Images.md
+# Audio, Video, Images
 ------------
 
 ## images
