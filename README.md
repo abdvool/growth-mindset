@@ -39,8 +39,8 @@ I joined this course because I will learn software development  from the begging
 |  HTML Tables; JS Constructor Functions | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Object-Oriented%20Programming%2C%20HTML%20Tables) | 
 |  More CSS Layout | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/CSS%20Layout) | 
 |  Forms and Events | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Forms%20and%20JS%20Events) | 
-
-
+|  Debugging | [link](hthttps://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Debugging) | 
+|  Audio, Video, Images | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Audio%2C%20Video%2C%20Images) | 
 
 
 
