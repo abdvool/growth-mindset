@@ -12,10 +12,10 @@ went wrong in your JavaScript and how to fix it. In this chapter you will learn 
 
 
 
-![img](img/d1.JPG)
-![img](img/d2.JPG)
-![img](img/d3.JPG)
-![img](img/d4.JPG)
-![img](img/d5.JPG)
-![img](img/d6.JPG)
-![img](img/d7.JPG)
+![img](/img/d1.JPG)
+![img](/img/d2.JPG)
+![img](/img/d3.JPG)
+![img](/img/d4.JPG)
+![img](/img/d5.JPG)
+![img](/img/d6.JPG)
+![img](/img/d7.JPG)
