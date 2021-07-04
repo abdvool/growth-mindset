@@ -41,6 +41,8 @@ I joined this course because I will learn software development  from the begging
 |  Forms and Events | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Forms%20and%20JS%20Events) | 
 |  Debugging | [link](hthttps://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Debugging) | 
 |  Audio, Video, Images | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Audio%2C%20Video%2C%20Images) | 
+|  Chart.js, Canvas | [link](https://abdvool.github.io/reading-notes//Code%20201%20Reading%20Notes/Chart.js%2C%20Canvas) | 
+
 
 
 
