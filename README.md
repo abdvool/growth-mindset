@@ -42,6 +42,13 @@ I joined this course because I will learn software development  from the begging
 |  Debugging | [link](hthttps://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Debugging) | 
 |  Audio, Video, Images | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Audio%2C%20Video%2C%20Images) | 
 |  Chart.js, Canvas | [link](https://abdvool.github.io/reading-notes//Code%20201%20Reading%20Notes/Chart.js%2C%20Canvas) | 
+|  Local Storage | [link](https://abdvool.github.io/reading-notes//Code%20201%20Reading%20Notes/Local%20Storage) | 
+
+
+
+
+
+
 
 
 
