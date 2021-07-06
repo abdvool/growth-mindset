@@ -43,8 +43,8 @@ I joined this course because I will learn software development  from the begging
 |  Audio, Video, Images | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/Audio%2C%20Video%2C%20Images) | 
 |  Chart.js, Canvas | [link](https://abdvool.github.io/reading-notes//Code%20201%20Reading%20Notes/Chart.js%2C%20Canvas) | 
 |  Local Storage | [link](https://abdvool.github.io/reading-notes//Code%20201%20Reading%20Notes/Local%20Storage) | 
-| CSS Transforms, Transitions, and Animations| [link](https://abdvool.github.io/reading-notes//Code%20201%20Reading%20Notes/Local%20Storage) | 
-|  What Google Learned About Teams| [link](https://abdvool.github.io/reading-notes//Code%20201%20Reading%20Notes/Local%20Storage) | 
+| CSS Transforms, Transitions, and Animations| [link](https://abdvool.github.io/reading-notes/CSS%20Transforms%2C%20Transitions%2C%20and%20Animations) | 
+|  What Google Learned About Teams| [link](https://abdvool.github.io/reading-notes/What%20Google%20Learned%20About%20Teams) | 
 
 
 
