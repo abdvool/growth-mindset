@@ -53,9 +53,11 @@ I joined this course because I will learn software development  from the begging
 
 
 
-|**201 course** | links |                                                      
-|:---:  |:--: |
 
+|**301 course** | links |                                                      
+|:---:  |:--: |
+|  Component-Based Architecture | [link](https://abdvool.github.io/reading-notes/Component-Based%20Architecture) | 
+|   State and Props| [link](https://abdvool.github.io/reading-notes/State%20and%20Props) | 
 
 
 
