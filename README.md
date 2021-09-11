@@ -15,7 +15,7 @@ I joined this course because I will learn software development  from the begging
 #### these topics to learn you about the software development
 
 
-|**102 course** | links |                                                      
+|**Code 102 - Intro to Software Development** | links |                                                      
 |:---:  |:--: |
 | growth-mindset | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/growth-mindset) | 
 |Git Tutorial | [link](https://abdvool.github.io/reading-notes/Code%20102%20Reading%20Notes/Git%20Tutorial) |
@@ -28,7 +28,7 @@ I joined this course because I will learn software development  from the begging
 
 
 
-|**201 course** | links |                                                      
+|**Code 201 - Foundations of Software Development** | links |                                                      
 |:---:  |:--: |
 |  HTML&JS | [link](https://abdvool.github.io/reading-notes/Code%20201%20Reading%20Notes/HTML%26JS) | 
 |HTML Text, CSS, Basic
@@ -54,15 +54,12 @@ I joined this course because I will learn software development  from the begging
 
 
 
-|**301 course** | links |                                                      
+|**Code 301 - Intermediate Software Development** | links |                                                      
 |:---:  |:--: |
 |  Component-Based Architecture | [link](https://abdvool.github.io/reading-notes/Code%20301%20Reading%20Notes/Introduction%20to%20React%20and%20Components.md) | 
 |   State and Props| [link](https://abdvool.github.io/reading-notes/Code%20301%20Reading%20Notes/%20State%20and%20Props.md) | 
-
 |   Passing Functions as Props | [link](https://abdvool.github.io/reading-notes/Code%20301%20Reading%20Notes/Passing%20Functions%20as%20Props.md) | 
-
-|   React and Forms | [link](https://abdvool.github.io/reading-notes/Code%20301%20Reading%20Notes/React%20and%20Forms.md
-) | 
+|   React and Forms | [link](https://abdvool.github.io/reading-notes/Code%20301%20Reading%20Notes/React%20and%20Forms.md) | 
 
 
 
