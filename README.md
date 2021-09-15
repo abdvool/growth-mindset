@@ -60,6 +60,10 @@ I joined this course because I will learn software development  from the begging
 |   State and Props| [link](https://abdvool.github.io/reading-notes/Code%20301%20Reading%20Notes/%20State%20and%20Props.md) | 
 |   Passing Functions as Props | [link](https://abdvool.github.io/reading-notes/Code%20301%20Reading%20Notes/Passing%20Functions%20as%20Props.md) | 
 |   React and Forms | [link](https://abdvool.github.io/reading-notes/Code%20301%20Reading%20Notes/React%20and%20Forms.md) | 
+|   Putting it all together | [link](https://abdvool.github.io/reading-notes/Code%20301%20Reading%20Notes/Putting%20it%20all%20together.md) | 
+
+
+
 
 
 
